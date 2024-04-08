@@ -43,6 +43,8 @@ return [
             'profile',
             'offline_access',
             'accounting.settings',
+            'accounting.reports.read',
+            'accounting.contacts'
         ],
 
         /************************************************************************
